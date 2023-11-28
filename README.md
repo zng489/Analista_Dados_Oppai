@@ -1,2 +1,3 @@
 # Analista_Dados_Oppai
-## A arquitetura do Datalake proposta está representado 
+## A arquitetura do Datalake proposta:
+![Texto Alternativo](Arquitetura_GCP.png)
