@@ -11,6 +11,9 @@
 #### Utilização do Postman para caso seja necessário ativar os pipelines por meio de API do AirFlow.
 #### Utilização do Redis - A utilização do Redis é uma alternativa viável para a incrementação dos dados futuramente, pois visando o a gravação das 'Datas' na memórias, tornaria o processo mais rápido.
 #### Utilização do Power BI para a visualização (Foi feito a conexão do Power BI no Big Query - as conexões pode ser to tipo direct ou import).
+#### A implementação das incrementais ocorre de acordo com a difereça de ‘datatime’, ou seja, durante a ingestão sempre será acrescentado apenas os dados com datas novos.
+#### Outro método a ser utilizado seria a gravação de data mais recente dentro do Redis, da qual serviria para o mesmo propósito.
+#### Foi criado duas pastas no Dag do Airflow Anexos_simulando_novos_Files e Anexos para simular esse processo de incrementação.
 
 ## A arquitetura do Datalake proposta:
 ![Texto Alternativo](Arquitetura_DataLake_GCP.png)
