@@ -1,4 +1,5 @@
 # Analista_Dados_Oppai
+# Relatorios_Oppai contém explicações mais detalhadas sobre cada passo feito nesse projeto
 
 # Explicação e entendimento das implementações feitas:
 #### Criação da arquitetura dentro do ambiente Google Cloud.
@@ -25,3 +26,7 @@
 ## Workflow da ingestão e do ETL até DW:
 ![Texto Alternativo](DAGS_workflows.drawio.png)
 
+## Painéis do Power BI:
+![Texto Alternativo](painel_votes_users.png)
+![Texto Alternativo](post_comments.png)
+![Texto Alternativo](posts.png)
