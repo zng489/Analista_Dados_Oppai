@@ -1,5 +1,6 @@
 # Analista_Dados_Oppai
-# Relatorios_Oppai contém explicações mais detalhadas sobre cada passo feito nesse projeto
+# Relatorios_Oppai.docx contém explicações mais detalhadas sobre cada passo feito nesse projeto
+# (https://github.com/zng489/Analista_Dados_Oppai/blob/main/Relatorios_Oppai.docx)
 
 # Explicação e entendimento das implementações feitas:
 #### Criação da arquitetura dentro do ambiente Google Cloud.
