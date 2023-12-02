@@ -1,4 +1,7 @@
 # Analista_Dados_Oppai
+
+# Link da explicação do projeto (https://youtu.be/NtuZG4KOhPk)
+
 # Relatorios_Oppai.docx contém explicações mais detalhadas sobre cada passo feito nesse projeto
 # (https://github.com/zng489/Analista_Dados_Oppai/blob/main/Relatorios_Oppai.docx)
 # Chave para acesso ao DataLake (https://github.com/zng489/Analista_Dados_Oppai/blob/main/airflow_2.2.0/dags/oppai-data-challenge-9d987fd8259c.json) expira em 30 dias
